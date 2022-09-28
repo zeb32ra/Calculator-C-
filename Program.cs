@@ -40,7 +40,7 @@ while (operation_number != 9)
         }
         else
         {
-            Console.WriteLine(number1 / number2); // ;jgf
+            Console.WriteLine(number1 / number2); 
         }
     }
     else if (operation_number == 5)
